@@ -1,21 +1,25 @@
 import {
-  calculateDecisiveAge,
+  calculateMostVotingAge,
   calculateElectionWinner,
-  Candidates,
+  filterFemaleVoters,
 } from "./election";
-import { voters } from "./voters";
+import { FemaleVoters, voters } from "./voters";
 
-describe("Calculations", function () {
+describe("Election calculations", function () {
   it("should compute election winner", function () {
     expect(calculateElectionWinner(voters)).toEqual({
       votesForJohn: 44,
       votesForMike: 58,
       totalVotes: 102,
-      winner: Candidates.B,
+      winner: "Mike Fake",
     });
   });
 
-  it("should compute most common age", function () {
-    expect(calculateDecisiveAge(voters)).toEqual({ age: 60, count: 8 });
+  it("should compute most common voting age", function () {
+    expect(calculateMostVotingAge(voters)).toEqual({ age: 60, count: 8 });
+  });
+
+  it("should filter female voters", function () {
+    expect(filterFemaleVoters(voters)).toEqual(FemaleVoters);
   });
 });
