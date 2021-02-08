@@ -16,7 +16,7 @@ describe("Election calculations", function () {
   });
 
   it("should compute most common voting age", function () {
-    expect(calculateMostVotingAge(voters)).toEqual({ age: 60, count: 8 });
+    expect(calculateMostVotingAge(voters)).toEqual({ age: 60, count: 7 });
   });
 
   it("should filter female voters", function () {
