@@ -4,7 +4,7 @@ export const voters: any[] = [
     firstName: "Brynna",
     lastName: "Goranov",
     age: 78,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -12,7 +12,7 @@ export const voters: any[] = [
     firstName: "Tracey",
     lastName: "Manz",
     age: 79,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -20,7 +20,7 @@ export const voters: any[] = [
     firstName: "Margeaux",
     lastName: "Frape",
     age: 34,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -28,7 +28,7 @@ export const voters: any[] = [
     firstName: "Ab",
     lastName: "Webb-Bowen",
     age: 27,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -36,7 +36,7 @@ export const voters: any[] = [
     firstName: "Walden",
     lastName: "Japp",
     age: 80,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -44,7 +44,7 @@ export const voters: any[] = [
     firstName: "Goraud",
     lastName: "Warboys",
     age: 73,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -52,7 +52,7 @@ export const voters: any[] = [
     firstName: "Vassili",
     lastName: "MacCrann",
     age: 87,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -60,7 +60,7 @@ export const voters: any[] = [
     firstName: "Elicia",
     lastName: "Clowton",
     age: 47,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -68,7 +68,7 @@ export const voters: any[] = [
     firstName: "Olav",
     lastName: "Kleinstein",
     age: 74,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -76,7 +76,7 @@ export const voters: any[] = [
     firstName: "Juliane",
     lastName: "Plank",
     age: 90,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -84,7 +84,7 @@ export const voters: any[] = [
     firstName: "Thia",
     lastName: "Scrimshire",
     age: 81,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -92,7 +92,7 @@ export const voters: any[] = [
     firstName: "Nollie",
     lastName: "Walklot",
     age: 31,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -100,7 +100,7 @@ export const voters: any[] = [
     firstName: "Sidnee",
     lastName: "Remer",
     age: 74,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -108,7 +108,7 @@ export const voters: any[] = [
     firstName: "Cacilie",
     lastName: "Lydall",
     age: 75,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -116,7 +116,7 @@ export const voters: any[] = [
     firstName: "Jared",
     lastName: "Robez",
     age: 47,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -124,7 +124,7 @@ export const voters: any[] = [
     firstName: "Terrie",
     lastName: "Keble",
     age: 78,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -132,7 +132,7 @@ export const voters: any[] = [
     firstName: "Timofei",
     lastName: "Nairy",
     age: 18,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -140,7 +140,7 @@ export const voters: any[] = [
     firstName: "Holmes",
     lastName: "McColl",
     age: 18,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -148,7 +148,7 @@ export const voters: any[] = [
     firstName: "Allyn",
     lastName: "Patek",
     age: 43,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -156,7 +156,7 @@ export const voters: any[] = [
     firstName: "Dermot",
     lastName: "Fairfoull",
     age: 55,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -164,7 +164,7 @@ export const voters: any[] = [
     firstName: "Archie",
     lastName: "Ponnsett",
     age: 75,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -172,7 +172,7 @@ export const voters: any[] = [
     firstName: "Barnard",
     lastName: "Poytheras",
     age: 37,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -180,7 +180,7 @@ export const voters: any[] = [
     firstName: "Montague",
     lastName: "Tennant",
     age: 75,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -188,7 +188,7 @@ export const voters: any[] = [
     firstName: "Lorne",
     lastName: "Guerreru",
     age: 71,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -196,7 +196,7 @@ export const voters: any[] = [
     firstName: "Royce",
     lastName: "Craiker",
     age: 90,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -204,7 +204,7 @@ export const voters: any[] = [
     firstName: "Stearn",
     lastName: "Mandeville",
     age: 88,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -212,7 +212,7 @@ export const voters: any[] = [
     firstName: "Dominique",
     lastName: "Way",
     age: 94,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -220,7 +220,7 @@ export const voters: any[] = [
     firstName: "Alfredo",
     lastName: "Janas",
     age: 60,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -228,7 +228,7 @@ export const voters: any[] = [
     firstName: "Sherrie",
     lastName: "Dillaway",
     age: 37,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -236,7 +236,7 @@ export const voters: any[] = [
     firstName: "Noland",
     lastName: "Seckom",
     age: 85,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -244,7 +244,7 @@ export const voters: any[] = [
     firstName: "Eleanora",
     lastName: "Stearn",
     age: 56,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -252,7 +252,7 @@ export const voters: any[] = [
     firstName: "Kata",
     lastName: "Whitcher",
     age: 57,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -260,7 +260,7 @@ export const voters: any[] = [
     firstName: "Ignazio",
     lastName: "Matuszynski",
     age: 79,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -268,7 +268,7 @@ export const voters: any[] = [
     firstName: "Free",
     lastName: "Dennant",
     age: 51,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -276,7 +276,7 @@ export const voters: any[] = [
     firstName: "Nestor",
     lastName: "Piken",
     age: 75,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -284,7 +284,7 @@ export const voters: any[] = [
     firstName: "Shelton",
     lastName: "Blampied",
     age: 52,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -292,7 +292,7 @@ export const voters: any[] = [
     firstName: "Retha",
     lastName: "Mattessen",
     age: 84,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -300,7 +300,7 @@ export const voters: any[] = [
     firstName: "Nona",
     lastName: "Clayworth",
     age: 57,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -308,7 +308,7 @@ export const voters: any[] = [
     firstName: "Daisi",
     lastName: "Ruckert",
     age: 21,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -316,7 +316,7 @@ export const voters: any[] = [
     firstName: "Clemmy",
     lastName: "Pawellek",
     age: 64,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -324,7 +324,7 @@ export const voters: any[] = [
     firstName: "Johnny",
     lastName: "Boustead",
     age: 45,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -332,7 +332,7 @@ export const voters: any[] = [
     firstName: "Gert",
     lastName: "Churn",
     age: 40,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -340,7 +340,7 @@ export const voters: any[] = [
     firstName: "Elsie",
     lastName: "Autrie",
     age: 63,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -348,7 +348,7 @@ export const voters: any[] = [
     firstName: "Ladonna",
     lastName: "Domeny",
     age: 18,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -356,7 +356,7 @@ export const voters: any[] = [
     firstName: "Mohandas",
     lastName: "Bullingham",
     age: 20,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -364,7 +364,7 @@ export const voters: any[] = [
     firstName: "Fancie",
     lastName: "Piercy",
     age: 46,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -372,7 +372,7 @@ export const voters: any[] = [
     firstName: "Urban",
     lastName: "Hedney",
     age: 96,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -380,7 +380,7 @@ export const voters: any[] = [
     firstName: "Yalonda",
     lastName: "Edghinn",
     age: 45,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -388,7 +388,7 @@ export const voters: any[] = [
     firstName: "Webster",
     lastName: "Belvard",
     age: 98,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -396,7 +396,7 @@ export const voters: any[] = [
     firstName: "Jeane",
     lastName: "Rousby",
     age: 46,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -404,7 +404,7 @@ export const voters: any[] = [
     firstName: "Fayth",
     lastName: "Harmar",
     age: 76,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -412,7 +412,7 @@ export const voters: any[] = [
     firstName: "Fredrick",
     lastName: "Edworthye",
     age: 85,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -420,7 +420,7 @@ export const voters: any[] = [
     firstName: "Arturo",
     lastName: "Trippitt",
     age: 91,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -428,7 +428,7 @@ export const voters: any[] = [
     firstName: "Rustie",
     lastName: "Duran",
     age: 79,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -436,7 +436,7 @@ export const voters: any[] = [
     firstName: "Pembroke",
     lastName: "Risebarer",
     age: 60,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -444,7 +444,7 @@ export const voters: any[] = [
     firstName: "Graeme",
     lastName: "Chelnam",
     age: 87,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -452,7 +452,7 @@ export const voters: any[] = [
     firstName: "Gilemette",
     lastName: "Boagey",
     age: 92,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -460,7 +460,7 @@ export const voters: any[] = [
     firstName: "Witty",
     lastName: "Traise",
     age: 96,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -468,7 +468,7 @@ export const voters: any[] = [
     firstName: "Garrick",
     lastName: "Gallehock",
     age: 41,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -476,7 +476,7 @@ export const voters: any[] = [
     firstName: "Lorne",
     lastName: "Simeoli",
     age: 30,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -484,7 +484,7 @@ export const voters: any[] = [
     firstName: "Kimball",
     lastName: "Tender",
     age: 60,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -492,7 +492,7 @@ export const voters: any[] = [
     firstName: "Freddi",
     lastName: "Stanistrete",
     age: 36,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -500,7 +500,7 @@ export const voters: any[] = [
     firstName: "Manolo",
     lastName: "Duran",
     age: 35,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -508,7 +508,7 @@ export const voters: any[] = [
     firstName: "Steffi",
     lastName: "Kier",
     age: 87,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -516,7 +516,7 @@ export const voters: any[] = [
     firstName: "Eward",
     lastName: "Yakushkev",
     age: 83,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -524,7 +524,7 @@ export const voters: any[] = [
     firstName: "Leila",
     lastName: "Ironmonger",
     age: 55,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -532,7 +532,7 @@ export const voters: any[] = [
     firstName: "Titos",
     lastName: "Risebrow",
     age: 23,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -540,7 +540,7 @@ export const voters: any[] = [
     firstName: "Cordy",
     lastName: "Pitkeathly",
     age: 48,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -548,7 +548,7 @@ export const voters: any[] = [
     firstName: "Genvieve",
     lastName: "Carnoghan",
     age: 35,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -556,7 +556,7 @@ export const voters: any[] = [
     firstName: "Devina",
     lastName: "Jones",
     age: 18,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -564,7 +564,7 @@ export const voters: any[] = [
     firstName: "Ursa",
     lastName: "Dragon",
     age: 60,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -572,7 +572,7 @@ export const voters: any[] = [
     firstName: "Sonya",
     lastName: "Critch",
     age: 65,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -580,7 +580,7 @@ export const voters: any[] = [
     firstName: "Blair",
     lastName: "Cross",
     age: 22,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -588,7 +588,7 @@ export const voters: any[] = [
     firstName: "Marijo",
     lastName: "Bleasdille",
     age: 71,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -596,7 +596,7 @@ export const voters: any[] = [
     firstName: "Ignacius",
     lastName: "Sayer",
     age: 91,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -604,7 +604,7 @@ export const voters: any[] = [
     firstName: "Juan",
     lastName: "Baukham",
     age: 32,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -612,7 +612,7 @@ export const voters: any[] = [
     firstName: "Crin",
     lastName: "Belvard",
     age: 66,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -620,7 +620,7 @@ export const voters: any[] = [
     firstName: "Gerard",
     lastName: "Jacqueme",
     age: 39,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -628,7 +628,7 @@ export const voters: any[] = [
     firstName: "Kittie",
     lastName: "Loffhead",
     age: 49,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -636,7 +636,7 @@ export const voters: any[] = [
     firstName: "Butch",
     lastName: "Ong",
     age: 56,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -644,7 +644,7 @@ export const voters: any[] = [
     firstName: "Cordi",
     lastName: "Brecken",
     age: 54,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -652,7 +652,7 @@ export const voters: any[] = [
     firstName: "Julita",
     lastName: "McCray",
     age: 60,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -660,7 +660,7 @@ export const voters: any[] = [
     firstName: "Marnia",
     lastName: "Roycroft",
     age: 79,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -668,7 +668,7 @@ export const voters: any[] = [
     firstName: "Lionel",
     lastName: "Able",
     age: 28,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -676,7 +676,7 @@ export const voters: any[] = [
     firstName: "Jens",
     lastName: "Olenov",
     age: 59,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -684,7 +684,7 @@ export const voters: any[] = [
     firstName: "Jillayne",
     lastName: "Kittow",
     age: 83,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -692,7 +692,7 @@ export const voters: any[] = [
     firstName: "Cilka",
     lastName: "Aughtie",
     age: 76,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -700,7 +700,7 @@ export const voters: any[] = [
     firstName: "Dennison",
     lastName: "Burrage",
     age: 23,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -708,7 +708,7 @@ export const voters: any[] = [
     firstName: "Earle",
     lastName: "Windibank",
     age: 24,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -716,7 +716,7 @@ export const voters: any[] = [
     firstName: "Kasey",
     lastName: "Liversedge",
     age: 75,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -724,7 +724,7 @@ export const voters: any[] = [
     firstName: "Ty",
     lastName: "Cherrington",
     age: 94,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -732,7 +732,7 @@ export const voters: any[] = [
     firstName: "Aurel",
     lastName: "Euston",
     age: 51,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -740,7 +740,7 @@ export const voters: any[] = [
     firstName: "Em",
     lastName: "Axford",
     age: 55,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -748,7 +748,7 @@ export const voters: any[] = [
     firstName: "Alley",
     lastName: "Temblett",
     age: 51,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -756,7 +756,7 @@ export const voters: any[] = [
     firstName: "Gregoire",
     lastName: "Opie",
     age: 27,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -764,7 +764,7 @@ export const voters: any[] = [
     firstName: "Kevan",
     lastName: "Jacqueme",
     age: 66,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -772,7 +772,7 @@ export const voters: any[] = [
     firstName: "Elle",
     lastName: "Stelfax",
     age: 51,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -780,7 +780,7 @@ export const voters: any[] = [
     firstName: "Marlene",
     lastName: "Chattey",
     age: 83,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -788,7 +788,7 @@ export const voters: any[] = [
     firstName: "Perrine",
     lastName: "Januszkiewicz",
     age: 23,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -796,7 +796,7 @@ export const voters: any[] = [
     firstName: "Clarke",
     lastName: "Firpo",
     age: 74,
-    gender: "Male",
+    gender: "male",
     votedFor: "B",
   },
   {
@@ -804,7 +804,7 @@ export const voters: any[] = [
     firstName: "John",
     lastName: "Mike",
     age: 60,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
   {
@@ -812,18 +812,18 @@ export const voters: any[] = [
     firstName: "Emilio",
     lastName: "Herrera",
     age: 60,
-    gender: "Male",
+    gender: "male",
     votedFor: "A",
   },
 ];
 
-export const FemaleVoters: any = [
+export const femaleVoters: any = [
   {
     id: 1,
     firstName: "Brynna",
     lastName: "Goranov",
     age: 78,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -831,7 +831,7 @@ export const FemaleVoters: any = [
     firstName: "Margeaux",
     lastName: "Frape",
     age: 34,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -839,7 +839,7 @@ export const FemaleVoters: any = [
     firstName: "Elicia",
     lastName: "Clowton",
     age: 47,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -847,7 +847,7 @@ export const FemaleVoters: any = [
     firstName: "Juliane",
     lastName: "Plank",
     age: 90,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -855,7 +855,7 @@ export const FemaleVoters: any = [
     firstName: "Thia",
     lastName: "Scrimshire",
     age: 81,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -863,7 +863,7 @@ export const FemaleVoters: any = [
     firstName: "Cacilie",
     lastName: "Lydall",
     age: 75,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -871,7 +871,7 @@ export const FemaleVoters: any = [
     firstName: "Terrie",
     lastName: "Keble",
     age: 78,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -879,7 +879,7 @@ export const FemaleVoters: any = [
     firstName: "Allyn",
     lastName: "Patek",
     age: 43,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -887,7 +887,7 @@ export const FemaleVoters: any = [
     firstName: "Dominique",
     lastName: "Way",
     age: 94,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -895,7 +895,7 @@ export const FemaleVoters: any = [
     firstName: "Sherrie",
     lastName: "Dillaway",
     age: 37,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -903,7 +903,7 @@ export const FemaleVoters: any = [
     firstName: "Eleanora",
     lastName: "Stearn",
     age: 56,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -911,7 +911,7 @@ export const FemaleVoters: any = [
     firstName: "Kata",
     lastName: "Whitcher",
     age: 57,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -919,7 +919,7 @@ export const FemaleVoters: any = [
     firstName: "Retha",
     lastName: "Mattessen",
     age: 84,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -927,7 +927,7 @@ export const FemaleVoters: any = [
     firstName: "Nona",
     lastName: "Clayworth",
     age: 57,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -935,7 +935,7 @@ export const FemaleVoters: any = [
     firstName: "Daisi",
     lastName: "Ruckert",
     age: 21,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -943,7 +943,7 @@ export const FemaleVoters: any = [
     firstName: "Clemmy",
     lastName: "Pawellek",
     age: 64,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -951,7 +951,7 @@ export const FemaleVoters: any = [
     firstName: "Gert",
     lastName: "Churn",
     age: 40,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -959,7 +959,7 @@ export const FemaleVoters: any = [
     firstName: "Elsie",
     lastName: "Autrie",
     age: 63,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -967,7 +967,7 @@ export const FemaleVoters: any = [
     firstName: "Ladonna",
     lastName: "Domeny",
     age: 18,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -975,7 +975,7 @@ export const FemaleVoters: any = [
     firstName: "Fancie",
     lastName: "Piercy",
     age: 46,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -983,7 +983,7 @@ export const FemaleVoters: any = [
     firstName: "Yalonda",
     lastName: "Edghinn",
     age: 45,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -991,7 +991,7 @@ export const FemaleVoters: any = [
     firstName: "Jeane",
     lastName: "Rousby",
     age: 46,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -999,7 +999,7 @@ export const FemaleVoters: any = [
     firstName: "Fayth",
     lastName: "Harmar",
     age: 76,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -1007,7 +1007,7 @@ export const FemaleVoters: any = [
     firstName: "Gilemette",
     lastName: "Boagey",
     age: 92,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -1015,7 +1015,7 @@ export const FemaleVoters: any = [
     firstName: "Lorne",
     lastName: "Simeoli",
     age: 30,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -1023,7 +1023,7 @@ export const FemaleVoters: any = [
     firstName: "Freddi",
     lastName: "Stanistrete",
     age: 36,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -1031,7 +1031,7 @@ export const FemaleVoters: any = [
     firstName: "Steffi",
     lastName: "Kier",
     age: 87,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -1039,7 +1039,7 @@ export const FemaleVoters: any = [
     firstName: "Leila",
     lastName: "Ironmonger",
     age: 55,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -1047,7 +1047,7 @@ export const FemaleVoters: any = [
     firstName: "Genvieve",
     lastName: "Carnoghan",
     age: 35,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -1055,7 +1055,7 @@ export const FemaleVoters: any = [
     firstName: "Devina",
     lastName: "Jones",
     age: 18,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -1063,7 +1063,7 @@ export const FemaleVoters: any = [
     firstName: "Ursa",
     lastName: "Dragon",
     age: 60,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -1071,7 +1071,7 @@ export const FemaleVoters: any = [
     firstName: "Sonya",
     lastName: "Critch",
     age: 65,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -1079,7 +1079,7 @@ export const FemaleVoters: any = [
     firstName: "Marijo",
     lastName: "Bleasdille",
     age: 71,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -1087,7 +1087,7 @@ export const FemaleVoters: any = [
     firstName: "Crin",
     lastName: "Belvard",
     age: 66,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -1095,7 +1095,7 @@ export const FemaleVoters: any = [
     firstName: "Kittie",
     lastName: "Loffhead",
     age: 49,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -1103,7 +1103,7 @@ export const FemaleVoters: any = [
     firstName: "Cordi",
     lastName: "Brecken",
     age: 54,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -1111,7 +1111,7 @@ export const FemaleVoters: any = [
     firstName: "Julita",
     lastName: "McCray",
     age: 60,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -1119,7 +1119,7 @@ export const FemaleVoters: any = [
     firstName: "Marnia",
     lastName: "Roycroft",
     age: 79,
-    gender: "Female",
+    gender: "female",
     votedFor: "A",
   },
   {
@@ -1127,7 +1127,7 @@ export const FemaleVoters: any = [
     firstName: "Jillayne",
     lastName: "Kittow",
     age: 83,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -1135,7 +1135,7 @@ export const FemaleVoters: any = [
     firstName: "Cilka",
     lastName: "Aughtie",
     age: 76,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -1143,7 +1143,7 @@ export const FemaleVoters: any = [
     firstName: "Kasey",
     lastName: "Liversedge",
     age: 75,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -1151,7 +1151,7 @@ export const FemaleVoters: any = [
     firstName: "Aurel",
     lastName: "Euston",
     age: 51,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -1159,7 +1159,7 @@ export const FemaleVoters: any = [
     firstName: "Em",
     lastName: "Axford",
     age: 55,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -1167,7 +1167,7 @@ export const FemaleVoters: any = [
     firstName: "Elle",
     lastName: "Stelfax",
     age: 51,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -1175,7 +1175,7 @@ export const FemaleVoters: any = [
     firstName: "Marlene",
     lastName: "Chattey",
     age: 83,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
   {
@@ -1183,7 +1183,7 @@ export const FemaleVoters: any = [
     firstName: "Perrine",
     lastName: "Januszkiewicz",
     age: 23,
-    gender: "Female",
+    gender: "female",
     votedFor: "B",
   },
 ];
