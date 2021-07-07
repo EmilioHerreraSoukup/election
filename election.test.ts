@@ -6,6 +6,7 @@ import {
 import { femaleVoters, voters } from "./voters";
 
 describe("Election calculations", function () {
+  //
   it("should filter female voters", function () {
     expect(filterFemaleVoters(voters)).toEqual(femaleVoters);
   });

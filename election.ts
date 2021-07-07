@@ -33,11 +33,6 @@ export function filterFemaleVoters(voters: Voter[]): FemaleVoter[] {
   // return FemaleVoter[];
 }
 
-// export function calculateMostVotingAge(voters: Voter[]): MostVotingAge {
-//   // The age that voted the most
-//   // RETURN: { age: ??, count: ?? };
-// }
-
 // export function calculateElectionWinner(voters: Voter[]): Result {
 //   // Consider that A = "John Doe", B = "Mike Fake",
 //   // RETURN:
@@ -47,4 +42,9 @@ export function filterFemaleVoters(voters: Voter[]): FemaleVoter[] {
 //   //   totalVotes: ??,
 //   //   winner: ??,
 //   // };
+// }
+
+// export function calculateMostVotingAge(voters: Voter[]): MostVotingAge {
+//   // The age that voted the most
+//   // RETURN: { age: ??, count: ?? };
 // }
