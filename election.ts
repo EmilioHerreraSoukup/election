@@ -25,7 +25,7 @@ interface Result {
 }
 
 interface MostVotingAge {
-  ages: number;
+  age: number;
   count: number;
 }
 
